@@ -1,0 +1,29 @@
+{
+    "level": 30,
+    "hintText": "这是肉",
+    "wordArray": [
+        "丑",
+        "世",
+        "诚",
+        "谷",
+        "国",
+        "名",
+        "孝",
+        "五",
+        "米",
+        "卖",
+        "肉",
+        "鸭",
+        "饭",
+        "雨",
+        "花",
+        "仪",
+        "负",
+        "鹅",
+        "耳",
+        "园"
+    ],
+    "answerLength": 3,
+    "imageUrl": "https://sofun.online/static/punGame/img/30.png",
+    "isReviewMode": false
+}

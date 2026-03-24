@@ -1,0 +1,29 @@
+{
+    "level": 120,
+    "hintText": "这是刀",
+    "wordArray": [
+        "光",
+        "瘦",
+        "听",
+        "柳",
+        "钱",
+        "兔",
+        "缺",
+        "熊",
+        "仪",
+        "烛",
+        "山",
+        "羊",
+        "盐",
+        "蛇",
+        "飞",
+        "种",
+        "刀",
+        "香",
+        "好",
+        "左"
+    ],
+    "answerLength": 2,
+    "imageUrl": "https://sofun.online/static/punGame/img/120.png",
+    "isReviewMode": false
+}

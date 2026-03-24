@@ -1,0 +1,29 @@
+{
+    "level": 80,
+    "hintText": "这是牛奶",
+    "wordArray": [
+        "雪",
+        "森",
+        "家",
+        "枣",
+        "少",
+        "床",
+        "石",
+        "二",
+        "牛",
+        "圆",
+        "来",
+        "冬",
+        "老",
+        "奶",
+        "田",
+        "山",
+        "金",
+        "愚",
+        "美",
+        "虎"
+    ],
+    "answerLength": 2,
+    "imageUrl": "https://sofun.online/static/punGame/img/80.png",
+    "isReviewMode": false
+}

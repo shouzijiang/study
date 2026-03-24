@@ -1,0 +1,29 @@
+{
+    "level": 70,
+    "hintText": "这是布丁",
+    "wordArray": [
+        "礼",
+        "鸡",
+        "姐",
+        "不",
+        "声",
+        "梅",
+        "冷",
+        "丁",
+        "灯",
+        "浪",
+        "丑",
+        "田",
+        "风",
+        "生",
+        "新",
+        "秋",
+        "胖",
+        "皮",
+        "短",
+        "茶"
+    ],
+    "answerLength": 3,
+    "imageUrl": "https://sofun.online/static/punGame/img/70.png",
+    "isReviewMode": false
+}

@@ -1,0 +1,29 @@
+{
+    "level": 65,
+    "hintText": "这是肉",
+    "wordArray": [
+        "鱼",
+        "肉",
+        "狗",
+        "声",
+        "白",
+        "它",
+        "包",
+        "信",
+        "果",
+        "四",
+        "锅",
+        "一",
+        "远",
+        "熊",
+        "鹅",
+        "孝",
+        "凹",
+        "乡",
+        "狮",
+        "后"
+    ],
+    "answerLength": 3,
+    "imageUrl": "https://sofun.online/static/punGame/img/65.png",
+    "isReviewMode": false
+}

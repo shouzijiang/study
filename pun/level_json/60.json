@@ -1,0 +1,29 @@
+{
+    "level": 60,
+    "hintText": "这是象",
+    "wordArray": [
+        "云",
+        "电",
+        "火",
+        "春",
+        "老",
+        "叶",
+        "柏",
+        "圆",
+        "安",
+        "鸭",
+        "向",
+        "桌",
+        "礼",
+        "黑",
+        "霞",
+        "友",
+        "早",
+        "家",
+        "皮",
+        "端"
+    ],
+    "answerLength": 3,
+    "imageUrl": "https://sofun.online/static/punGame/img/60.png",
+    "isReviewMode": false
+}

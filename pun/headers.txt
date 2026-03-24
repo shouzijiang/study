@@ -1,0 +1,16 @@
+# 每行一个请求头：Header-Name: value
+# 复制本文件为 headers.txt 后再修改
+
+# 必填（通常）
+Cookie: suda_web_did=1856715697172491; suda-csrf-token=6685fe24dcc870ba79621bd1cddcda6a5fe1e3d9304494dae4ac670d9479c500; s_v_web_id=verify_mmbnr8pw_DjILDtVK_V9xd_4LZU_AH4Z_0Y2ON81ijCsc; X-Force-Runtime-Session=N:d25391d121cd4425b14c_390.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2YWx1ZSI6eyJ0ZW5hbnRJRCI6MzkwLCJ1c2VySUQiOjE4NTU1Mjk1NjIxNjIyNTksImlkZW50aXR5SUQiOjE4NTU1Mjk1NjIxNjIyNzUsImlkZW50aXR5VHlwZSI6MSwic2Vzc2lvblRva2VuIjoiYjgxYWQxNjc5YTk3M2I3Y1E4VjU4YmY5NTkzZTA5NDk3NGIyOW44MzBhOGYzODlkZDFkY2M0T1BjMmE2MGY2ZjYyYWFlMjlhYXNSciIsImxvZ2luVHlwZSI6MSwibG9naW5BdCI6MTc3MjYwNTg2MDA4NywiZXhwaXJlQXQiOjE3NzUxOTc4NjAwODd9LCJleHAiOjE3ODgxNTc4NjB9.Yfwi2ADJd9gFKW8FbU8HO3fucgz0qDfz_4jM0dJaACY; apaas_web_did=1858711395881226
+
+
+# 可选（如果接口要求）
+# Authorization: Bearer 替换为你的token
+# X-Csrf-Token: 替换为你的csrf
+
+# 参考
+Referer: https://apaas.aiforce.cloud/
+Origin: https://apaas.aiforce.cloud
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate

@@ -1,0 +1,29 @@
+{
+    "level": 240,
+    "hintText": "这是鸡",
+    "wordArray": [
+        "烛",
+        "雷",
+        "明",
+        "鱼",
+        "羊",
+        "年",
+        "小",
+        "石",
+        "血",
+        "猫",
+        "平",
+        "机",
+        "狼",
+        "得",
+        "正",
+        "鹅",
+        "难",
+        "心",
+        "会",
+        "入"
+    ],
+    "answerLength": 4,
+    "imageUrl": "https://sofun.online/static/punGame/img/240.png",
+    "isReviewMode": false
+}

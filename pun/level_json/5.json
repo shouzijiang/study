@@ -1,0 +1,29 @@
+{
+    "level": 5,
+    "hintText": "这是鸡",
+    "wordArray": [
+        "鹿",
+        "机",
+        "词",
+        "打",
+        "对",
+        "水",
+        "园",
+        "狼",
+        "火",
+        "仙",
+        "男",
+        "酒",
+        "安",
+        "失",
+        "暗",
+        "诚",
+        "雾",
+        "愚",
+        "路",
+        "得"
+    ],
+    "answerLength": 3,
+    "imageUrl": "https://sofun.online/static/punGame/img/5.png",
+    "isReviewMode": true
+}

@@ -1,0 +1,29 @@
+{
+    "level": 50,
+    "hintText": "这是鲸鱼",
+    "wordArray": [
+        "霞",
+        "狮",
+        "明",
+        "九",
+        "冰",
+        "诗",
+        "梅",
+        "灯",
+        "粗",
+        "蛙",
+        "西",
+        "京",
+        "兰",
+        "笔",
+        "影",
+        "雁",
+        "右",
+        "画",
+        "铃",
+        "吴"
+    ],
+    "answerLength": 2,
+    "imageUrl": "https://sofun.online/static/punGame/img/50.png",
+    "isReviewMode": false
+}

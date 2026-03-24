@@ -1,0 +1,29 @@
+{
+    "level": 40,
+    "hintText": "这是鸡",
+    "wordArray": [
+        "蔡",
+        "门",
+        "冷",
+        "八",
+        "林",
+        "弟",
+        "钟",
+        "金",
+        "午",
+        "画",
+        "火",
+        "目",
+        "口",
+        "井",
+        "分",
+        "弯",
+        "文",
+        "吃",
+        "熊",
+        "姬"
+    ],
+    "answerLength": 3,
+    "imageUrl": "https://sofun.online/static/punGame/img/40.png",
+    "isReviewMode": false
+}

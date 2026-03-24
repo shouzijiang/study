@@ -1,0 +1,29 @@
+{
+    "level": 233,
+    "hintText": "这是鹿",
+    "wordArray": [
+        "茶",
+        "浴",
+        "红",
+        "龟",
+        "句",
+        "桌",
+        "露",
+        "兔",
+        "沐",
+        "贝",
+        "美",
+        "风",
+        "明",
+        "龙",
+        "鸭",
+        "目",
+        "猪",
+        "烛",
+        "贱",
+        "猴"
+    ],
+    "answerLength": 3,
+    "imageUrl": "https://sofun.online/static/punGame/img/233.png",
+    "isReviewMode": false
+}

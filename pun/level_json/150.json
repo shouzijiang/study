@@ -1,0 +1,29 @@
+{
+    "level": 150,
+    "hintText": "这是橙子",
+    "wordArray": [
+        "少",
+        "积",
+        "短",
+        "远",
+        "十",
+        "轻",
+        "狗",
+        "猴",
+        "多",
+        "马",
+        "直",
+        "胖",
+        "井",
+        "成",
+        "洋",
+        "蓝",
+        "头",
+        "市",
+        "凸",
+        "鸭"
+    ],
+    "answerLength": 4,
+    "imageUrl": "https://sofun.online/static/punGame/img/150.png",
+    "isReviewMode": false
+}

@@ -1,0 +1,29 @@
+{
+    "level": 53,
+    "hintText": "这是李白",
+    "wordArray": [
+        "门",
+        "仁",
+        "直",
+        "错",
+        "出",
+        "白",
+        "兰",
+        "子",
+        "鸡",
+        "猫",
+        "冷",
+        "商",
+        "桌",
+        "孝",
+        "酒",
+        "池",
+        "烟",
+        "切",
+        "雨",
+        "日"
+    ],
+    "answerLength": 3,
+    "imageUrl": "https://sofun.online/static/punGame/img/53.png",
+    "isReviewMode": false
+}

@@ -1,0 +1,29 @@
+{
+    "level": 15,
+    "hintText": "这是方便面",
+    "wordArray": [
+        "肉",
+        "热",
+        "旧",
+        "阴",
+        "雪",
+        "日",
+        "面",
+        "霞",
+        "椅",
+        "朋",
+        "蜂",
+        "大",
+        "假",
+        "谷",
+        "石",
+        "它",
+        "少",
+        "干",
+        "牛",
+        "对"
+    ],
+    "answerLength": 3,
+    "imageUrl": "https://sofun.online/static/punGame/img/15.png",
+    "isReviewMode": false
+}

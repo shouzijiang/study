@@ -1,0 +1,1003 @@
+[
+    {
+        "level": 1,
+        "userAnswer": "东坡肉",
+        "wordArrayIndices": [
+            10,
+            0,
+            19
+        ],
+        "hintText": "这是坡",
+        "answerLength": 3
+    },
+    {
+        "level": 2,
+        "userAnswer": "老九门",
+        "wordArrayIndices": [
+            10,
+            9,
+            3
+        ],
+        "hintText": "这是门",
+        "answerLength": 3
+    },
+    {
+        "level": 3,
+        "userAnswer": "道貌岸然",
+        "wordArrayIndices": [
+            7,
+            3,
+            16,
+            1
+        ],
+        "hintText": "这是道长",
+        "answerLength": 4
+    },
+    {
+        "level": 4,
+        "userAnswer": "蛋包饭",
+        "wordArrayIndices": [
+            14,
+            1,
+            9
+        ],
+        "hintText": "这是饭",
+        "answerLength": 3
+    },
+    {
+        "level": 5,
+        "userAnswer": "打火机",
+        "wordArrayIndices": [
+            3,
+            8,
+            1
+        ],
+        "hintText": "这是鸡",
+        "answerLength": 3
+    },
+    {
+        "level": 6,
+        "userAnswer": "扫描仪",
+        "wordArrayIndices": [
+            12,
+            4,
+            16
+        ],
+        "hintText": "这是阿姨",
+        "answerLength": 3
+    },
+    {
+        "level": 7,
+        "userAnswer": "苹果手机",
+        "wordArrayIndices": [
+            9,
+            6,
+            5,
+            12
+        ],
+        "hintText": "这是鸡",
+        "answerLength": 4
+    },
+    {
+        "level": 8,
+        "userAnswer": "薰衣草",
+        "wordArrayIndices": [
+            0,
+            7,
+            12
+        ],
+        "hintText": "这是草",
+        "answerLength": 3
+    },
+    {
+        "level": 9,
+        "userAnswer": "糍粑",
+        "wordArrayIndices": [
+            11,
+            14
+        ],
+        "hintText": "这是瓷器",
+        "answerLength": 2
+    },
+    {
+        "level": 10,
+        "userAnswer": "计算机",
+        "wordArrayIndices": [
+            16,
+            13,
+            18
+        ],
+        "hintText": "这是鸡",
+        "answerLength": 3
+    },
+    {
+        "level": 11,
+        "userAnswer": "梅花",
+        "wordArrayIndices": [
+            18,
+            9
+        ],
+        "hintText": "这是花",
+        "answerLength": 2
+    },
+    {
+        "level": 12,
+        "userAnswer": "社死",
+        "wordArrayIndices": [
+            6,
+            14
+        ],
+        "hintText": "这是蛇",
+        "answerLength": 2
+    },
+    {
+        "level": 13,
+        "userAnswer": "公报私仇",
+        "wordArrayIndices": [
+            9,
+            15,
+            18,
+            16
+        ],
+        "hintText": "这是申公豹",
+        "answerLength": 4
+    },
+    {
+        "level": 14,
+        "userAnswer": "凉拌黄瓜",
+        "wordArrayIndices": [
+            12,
+            18,
+            10,
+            9
+        ],
+        "hintText": "这是黄瓜",
+        "answerLength": 4
+    },
+    {
+        "level": 15,
+        "userAnswer": "热干面",
+        "wordArrayIndices": [
+            1,
+            17,
+            6
+        ],
+        "hintText": "这是方便面",
+        "answerLength": 3
+    },
+    {
+        "level": 16,
+        "userAnswer": "白龙马",
+        "wordArrayIndices": [
+            11,
+            19,
+            3
+        ],
+        "hintText": "这是马",
+        "answerLength": 3
+    },
+    {
+        "level": 17,
+        "userAnswer": "黄桃",
+        "wordArrayIndices": [
+            8,
+            2
+        ],
+        "hintText": "这是皇上",
+        "answerLength": 2
+    },
+    {
+        "level": 18,
+        "userAnswer": "包饺子",
+        "wordArrayIndices": [
+            6,
+            19,
+            3
+        ],
+        "hintText": "这是包",
+        "answerLength": 3
+    },
+    {
+        "level": 19,
+        "userAnswer": "倒数",
+        "wordArrayIndices": [
+            13,
+            10
+        ],
+        "hintText": "这是树",
+        "answerLength": 2
+    },
+    {
+        "level": 20,
+        "userAnswer": "王力宏",
+        "wordArrayIndices": [
+            0,
+            11,
+            4
+        ],
+        "hintText": "这是栗",
+        "answerLength": 3
+    },
+    {
+        "level": 21,
+        "userAnswer": "社牛",
+        "wordArrayIndices": [
+            0,
+            14
+        ],
+        "hintText": "这是牛",
+        "answerLength": 2
+    },
+    {
+        "level": 22,
+        "userAnswer": "冰箱",
+        "wordArrayIndices": [
+            18,
+            2
+        ],
+        "hintText": "这是箱子",
+        "answerLength": 2
+    },
+    {
+        "level": 23,
+        "userAnswer": "海底捞",
+        "wordArrayIndices": [
+            2,
+            10,
+            7
+        ],
+        "hintText": "这是海",
+        "answerLength": 3
+    },
+    {
+        "level": 24,
+        "userAnswer": "插座",
+        "wordArrayIndices": [
+            0,
+            2
+        ],
+        "hintText": "这是叉子",
+        "answerLength": 2
+    },
+    {
+        "level": 25,
+        "userAnswer": "辛拉面",
+        "wordArrayIndices": [
+            7,
+            2,
+            16
+        ],
+        "hintText": "这是面条",
+        "answerLength": 3
+    },
+    {
+        "level": 26,
+        "userAnswer": "壁虎",
+        "wordArrayIndices": [
+            5,
+            14
+        ],
+        "hintText": "这是虎",
+        "answerLength": 2
+    },
+    {
+        "level": 27,
+        "userAnswer": "鲨鱼辣椒",
+        "wordArrayIndices": [
+            3,
+            18,
+            15,
+            9
+        ],
+        "hintText": "这是辣椒",
+        "answerLength": 4
+    },
+    {
+        "level": 28,
+        "userAnswer": "上海",
+        "wordArrayIndices": [
+            4,
+            5
+        ],
+        "hintText": "这是海",
+        "answerLength": 2
+    },
+    {
+        "level": 29,
+        "userAnswer": "电风扇",
+        "wordArrayIndices": [
+            10,
+            7,
+            16
+        ],
+        "hintText": "这是黄鳝",
+        "answerLength": 3
+    },
+    {
+        "level": 30,
+        "userAnswer": "五花肉",
+        "wordArrayIndices": [
+            7,
+            14,
+            10
+        ],
+        "hintText": "这是肉",
+        "answerLength": 3
+    },
+    {
+        "level": 31,
+        "userAnswer": "相对论",
+        "wordArrayIndices": [
+            2,
+            7,
+            10
+        ],
+        "hintText": "这是轮",
+        "answerLength": 3
+    },
+    {
+        "level": 32,
+        "userAnswer": "飞行师",
+        "wordArrayIndices": [
+            18,
+            11,
+            17
+        ],
+        "hintText": "这是狮",
+        "answerLength": 3
+    },
+    {
+        "level": 33,
+        "userAnswer": "猕猴桃",
+        "wordArrayIndices": [
+            11,
+            14,
+            12
+        ],
+        "hintText": "这是桃",
+        "answerLength": 3
+    },
+    {
+        "level": 34,
+        "userAnswer": "电压",
+        "wordArrayIndices": [
+            4,
+            1
+        ],
+        "hintText": "这是鸭",
+        "answerLength": 2
+    },
+    {
+        "level": 35,
+        "userAnswer": "abandon",
+        "wordArrayIndices": [
+            1,
+            14,
+            5,
+            11,
+            2,
+            8,
+            16
+        ],
+        "hintText": "这是板凳",
+        "answerLength": 7
+    },
+    {
+        "level": 36,
+        "userAnswer": "气囊",
+        "wordArrayIndices": [
+            19,
+            7
+        ],
+        "hintText": "这是馕",
+        "answerLength": 2
+    },
+    {
+        "level": 37,
+        "userAnswer": "二胡",
+        "wordArrayIndices": [
+            16,
+            11
+        ],
+        "hintText": "这是狐",
+        "answerLength": 2
+    },
+    {
+        "level": 38,
+        "userAnswer": "冷淡",
+        "wordArrayIndices": [
+            19,
+            16
+        ],
+        "hintText": "这是蛋",
+        "answerLength": 2
+    },
+    {
+        "level": 39,
+        "userAnswer": "必有重谢",
+        "wordArrayIndices": [
+            7,
+            13,
+            5,
+            8
+        ],
+        "hintText": "这是蟹",
+        "answerLength": 4
+    },
+    {
+        "level": 40,
+        "userAnswer": "蔡文姬",
+        "wordArrayIndices": [
+            0,
+            16,
+            19
+        ],
+        "hintText": "这是鸡",
+        "answerLength": 3
+    },
+    {
+        "level": 41,
+        "userAnswer": "orange",
+        "wordArrayIndices": [
+            4,
+            7,
+            3,
+            18,
+            2,
+            13
+        ],
+        "hintText": "这是敖闰",
+        "answerLength": 6
+    },
+    {
+        "level": 42,
+        "userAnswer": "猛龙过江",
+        "wordArrayIndices": [
+            19,
+            4,
+            7,
+            17
+        ],
+        "hintText": "这是姜",
+        "answerLength": 4
+    },
+    {
+        "level": 43,
+        "userAnswer": "龙井茶",
+        "wordArrayIndices": [
+            0,
+            10,
+            8
+        ],
+        "hintText": "这是警察",
+        "answerLength": 3
+    },
+    {
+        "level": 44,
+        "userAnswer": "扬眉吐气",
+        "wordArrayIndices": [
+            17,
+            10,
+            11,
+            6
+        ],
+        "hintText": "这是杨梅",
+        "answerLength": 4
+    },
+    {
+        "level": 45,
+        "userAnswer": "北京",
+        "wordArrayIndices": [
+            6,
+            15
+        ],
+        "hintText": "这是鲸",
+        "answerLength": 2
+    },
+    {
+        "level": 46,
+        "userAnswer": "如萍",
+        "wordArrayIndices": [
+            12,
+            4
+        ],
+        "hintText": "这是如厕",
+        "answerLength": 2
+    },
+    {
+        "level": 47,
+        "userAnswer": "孤注一掷",
+        "wordArrayIndices": [
+            17,
+            1,
+            18,
+            12
+        ],
+        "hintText": "这是纸",
+        "answerLength": 4
+    },
+    {
+        "level": 48,
+        "userAnswer": "历历在目",
+        "wordArrayIndices": [
+            1,
+            19,
+            12,
+            16
+        ],
+        "hintText": "这是板栗",
+        "answerLength": 4
+    },
+    {
+        "level": 49,
+        "userAnswer": "闺蜜",
+        "wordArrayIndices": [
+            3,
+            14
+        ],
+        "hintText": "这是蜂蜜",
+        "answerLength": 2
+    },
+    {
+        "level": 50,
+        "userAnswer": "吴京",
+        "wordArrayIndices": [
+            19,
+            11
+        ],
+        "hintText": "这是鲸鱼",
+        "answerLength": 2
+    },
+    {
+        "level": 51,
+        "userAnswer": "吉林",
+        "wordArrayIndices": [
+            4,
+            17
+        ],
+        "hintText": "这是鸡",
+        "answerLength": 2
+    },
+    {
+        "level": 52,
+        "userAnswer": "强强联手",
+        "wordArrayIndices": [
+            0,
+            19,
+            4,
+            9
+        ],
+        "hintText": "这是小强",
+        "answerLength": 4
+    },
+    {
+        "level": 53,
+        "userAnswer": "白切鸡",
+        "wordArrayIndices": [
+            5,
+            17,
+            8
+        ],
+        "hintText": "这是李白",
+        "answerLength": 3
+    },
+    {
+        "level": 54,
+        "userAnswer": "长沙",
+        "wordArrayIndices": [
+            12,
+            0
+        ],
+        "hintText": "这是鲨",
+        "answerLength": 2
+    },
+    {
+        "level": 55,
+        "userAnswer": "豆沙月饼",
+        "wordArrayIndices": [
+            6,
+            12,
+            18,
+            10
+        ],
+        "hintText": "这是逗猫",
+        "answerLength": 4
+    },
+    {
+        "level": 56,
+        "userAnswer": "鬼哭狼嚎",
+        "wordArrayIndices": [
+            19,
+            1,
+            6,
+            16
+        ],
+        "hintText": "这是狼",
+        "answerLength": 4
+    },
+    {
+        "level": 57,
+        "userAnswer": "酒精灯",
+        "wordArrayIndices": [
+            13,
+            15,
+            6
+        ],
+        "hintText": "这是灯",
+        "answerLength": 3
+    },
+    {
+        "level": 58,
+        "userAnswer": "哈基米",
+        "wordArrayIndices": [
+            14,
+            1,
+            12
+        ],
+        "hintText": "这是米",
+        "answerLength": 3
+    },
+    {
+        "level": 59,
+        "userAnswer": "库里南",
+        "wordArrayIndices": [
+            4,
+            0,
+            13
+        ],
+        "hintText": "这是南瓜",
+        "answerLength": 3
+    },
+    {
+        "level": 60,
+        "userAnswer": "向云端",
+        "wordArrayIndices": [
+            10,
+            0,
+            19
+        ],
+        "hintText": "这是象",
+        "answerLength": 3
+    },
+    {
+        "level": 61,
+        "userAnswer": "好家伙",
+        "wordArrayIndices": [
+            6,
+            3,
+            13
+        ],
+        "hintText": "这是鼠",
+        "answerLength": 3
+    },
+    {
+        "level": 62,
+        "userAnswer": "冰山一角",
+        "wordArrayIndices": [
+            2,
+            12,
+            5,
+            19
+        ],
+        "hintText": "这是冰山",
+        "answerLength": 4
+    },
+    {
+        "level": 63,
+        "userAnswer": "倒霉",
+        "wordArrayIndices": [
+            15,
+            14
+        ],
+        "hintText": "这是草莓",
+        "answerLength": 2
+    },
+    {
+        "level": 64,
+        "userAnswer": "大同",
+        "wordArrayIndices": [
+            5,
+            10
+        ],
+        "hintText": "这是小铜块",
+        "answerLength": 2
+    },
+    {
+        "level": 65,
+        "userAnswer": "锅包肉",
+        "wordArrayIndices": [
+            10,
+            6,
+            1
+        ],
+        "hintText": "这是肉",
+        "answerLength": 3
+    },
+    {
+        "level": 66,
+        "userAnswer": "暗号",
+        "wordArrayIndices": [
+            14,
+            7
+        ],
+        "hintText": "这是小号",
+        "answerLength": 2
+    },
+    {
+        "level": 67,
+        "userAnswer": "许嵩",
+        "wordArrayIndices": [
+            1,
+            10
+        ],
+        "hintText": "这是松许",
+        "answerLength": 2
+    },
+    {
+        "level": 68,
+        "userAnswer": "团结一心",
+        "wordArrayIndices": [
+            18,
+            12,
+            2,
+            1
+        ],
+        "hintText": "这是饭团",
+        "answerLength": 4
+    },
+    {
+        "level": 69,
+        "userAnswer": "沈阳",
+        "wordArrayIndices": [
+            17,
+            12
+        ],
+        "hintText": "这是太阳",
+        "answerLength": 2
+    },
+    {
+        "level": 70,
+        "userAnswer": "冷不丁",
+        "wordArrayIndices": [
+            6,
+            3,
+            7
+        ],
+        "hintText": "这是布丁",
+        "answerLength": 3
+    },
+    {
+        "level": 71,
+        "userAnswer": "俄罗斯",
+        "wordArrayIndices": [
+            9,
+            1,
+            2
+        ],
+        "hintText": "这是鹅",
+        "answerLength": 3
+    },
+    {
+        "level": 72,
+        "userAnswer": "生财有道",
+        "wordArrayIndices": [
+            8,
+            7,
+            16,
+            1
+        ],
+        "hintText": "这是生菜",
+        "answerLength": 4
+    },
+    {
+        "level": 73,
+        "userAnswer": "辣条",
+        "wordArrayIndices": [
+            8,
+            15
+        ],
+        "hintText": "这是辣椒",
+        "answerLength": 2
+    },
+    {
+        "level": 74,
+        "userAnswer": "石沉大海",
+        "wordArrayIndices": [
+            12,
+            3,
+            8,
+            14
+        ],
+        "hintText": "这是石矶娘娘",
+        "answerLength": 4
+    },
+    {
+        "level": 75,
+        "userAnswer": "杨玉环",
+        "wordArrayIndices": [
+            2,
+            8,
+            1
+        ],
+        "hintText": "这是羊",
+        "answerLength": 3
+    },
+    {
+        "level": 76,
+        "userAnswer": "八音盒",
+        "wordArrayIndices": [
+            19,
+            7,
+            17
+        ],
+        "hintText": "这是盒",
+        "answerLength": 3
+    },
+    {
+        "level": 77,
+        "userAnswer": "没事",
+        "wordArrayIndices": [
+            2,
+            7
+        ],
+        "hintText": "这是柿子",
+        "answerLength": 2
+    },
+    {
+        "level": 78,
+        "userAnswer": "鸡犬升天",
+        "wordArrayIndices": [
+            13,
+            7,
+            8,
+            9
+        ],
+        "hintText": "这是鸡和犬",
+        "answerLength": 4
+    },
+    {
+        "level": 79,
+        "userAnswer": "大吸力",
+        "wordArrayIndices": [
+            0,
+            11,
+            14
+        ],
+        "hintText": "这是蜥蜴（油烟机）",
+        "answerLength": 3
+    },
+    {
+        "level": 80,
+        "userAnswer": "奶牛",
+        "wordArrayIndices": [
+            13,
+            8
+        ],
+        "hintText": "这是牛奶",
+        "answerLength": 2
+    },
+    {
+        "level": 81,
+        "userAnswer": "惊讶",
+        "wordArrayIndices": [
+            11,
+            8
+        ],
+        "hintText": "这是鸭",
+        "answerLength": 2
+    },
+    {
+        "level": 82,
+        "userAnswer": "不可思议",
+        "wordArrayIndices": [
+            7,
+            13,
+            16,
+            14
+        ],
+        "hintText": "这是book",
+        "answerLength": 4
+    },
+    {
+        "level": 83,
+        "userAnswer": "过桥米线",
+        "wordArrayIndices": [
+            18,
+            3,
+            11,
+            7
+        ],
+        "hintText": "这是米线",
+        "answerLength": 4
+    },
+    {
+        "level": 84,
+        "userAnswer": "比基尼",
+        "wordArrayIndices": [
+            5,
+            10,
+            13
+        ],
+        "hintText": "这是泥",
+        "answerLength": 3
+    },
+    {
+        "level": 85,
+        "userAnswer": "临时抱佛脚",
+        "wordArrayIndices": [
+            13,
+            16,
+            7,
+            2,
+            9
+        ],
+        "hintText": "这是零食",
+        "answerLength": 5
+    },
+    {
+        "level": 86,
+        "userAnswer": "灌木",
+        "wordArrayIndices": [
+            3,
+            9
+        ],
+        "hintText": "这是木",
+        "answerLength": 2
+    },
+    {
+        "level": 87,
+        "userAnswer": "律师函",
+        "wordArrayIndices": [
+            5,
+            16,
+            4
+        ],
+        "hintText": "这是狮",
+        "answerLength": 3
+    },
+    {
+        "level": 88,
+        "userAnswer": "八宝粥",
+        "wordArrayIndices": [
+            13,
+            4,
+            2
+        ],
+        "hintText": "这是粥",
+        "answerLength": 3
+    },
+    {
+        "level": 89,
+        "userAnswer": "新疆",
+        "wordArrayIndices": [
+            18,
+            7
+        ],
+        "hintText": "这是姜",
+        "answerLength": 2
+    },
+    {
+        "level": 90,
+        "userAnswer": "托福考试",
+        "wordArrayIndices": [
+            8,
+            5,
+            7,
+            1
+        ],
+        "hintText": "这是考试",
+        "answerLength": 4
+    },
+    {
+        "level": 91,
+        "userAnswer": "草木皆兵",
+        "wordArrayIndices": [
+            13,
+            4,
+            17,
+            1
+        ],
+        "hintText": "这是一草一木",
+        "answerLength": 4
+    }
+]

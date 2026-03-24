@@ -1,0 +1,29 @@
+{
+    "level": 7,
+    "hintText": "这是鸡",
+    "wordArray": [
+        "跳",
+        "猴",
+        "蛋",
+        "羊",
+        "妈",
+        "手",
+        "果",
+        "它",
+        "近",
+        "苹",
+        "龟",
+        "富",
+        "机",
+        "耳",
+        "勤",
+        "说",
+        "女",
+        "泉",
+        "水",
+        "面"
+    ],
+    "answerLength": 4,
+    "imageUrl": "https://sofun.online/static/punGame/img/7.png",
+    "isReviewMode": false
+}

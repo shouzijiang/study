@@ -1,0 +1,29 @@
+{
+    "level": 100,
+    "hintText": "这是酥肉",
+    "wordArray": [
+        "稣",
+        "米",
+        "猫",
+        "贱",
+        "金",
+        "柳",
+        "牛",
+        "失",
+        "反",
+        "江",
+        "马",
+        "生",
+        "忠",
+        "灰",
+        "波",
+        "浪",
+        "猿",
+        "耶",
+        "脸",
+        "静"
+    ],
+    "answerLength": 2,
+    "imageUrl": "https://sofun.online/static/punGame/img/100.png",
+    "isReviewMode": false
+}
