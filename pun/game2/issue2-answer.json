@@ -1375,5 +1375,572 @@
         "answerType": "成语",
         "tips": "粉色摸鱼",
         "pinyin": "fen3 mo4 deng1 chang3"
+    },
+    {
+        "level": 382,
+        "question": "蝴蝶",
+        "answerLength": 3,
+        "answer": "蝴蝶结",
+        "answerType": "词语",
+        "tips": "蝴蝶",
+        "pinyin": "hu2 die2 jie2"
+    },
+    {
+        "level": 383,
+        "question": "枫树",
+        "answerLength": 4,
+        "answer": "月黑风高",
+        "answerType": "词语",
+        "tips": "枫树",
+        "pinyin": "yue4 hei1 feng1 gao1"
+    },
+    {
+        "level": 385,
+        "question": "店",
+        "answerLength": 3,
+        "answer": "充电宝",
+        "answerType": "词语",
+        "tips": "店",
+        "pinyin": "chong1 dian4 bao3"
+    },
+    {
+        "level": 386,
+        "question": "汉堡",
+        "answerLength": 3,
+        "answer": "电饭煲",
+        "answerType": "词语",
+        "tips": "汉堡",
+        "pinyin": "dian4 fan4 bao1"
+    },
+    {
+        "level": 387,
+        "question": "盒子",
+        "answerLength": 3,
+        "answer": "八音盒",
+        "answerType": "词语",
+        "tips": "盒子",
+        "pinyin": "ba1 yin1 he2"
+    },
+    {
+        "level": 388,
+        "question": "扳子",
+        "answerLength": 4,
+        "answer": "草台班子",
+        "answerType": "词语",
+        "tips": "扳子",
+        "pinyin": "cao3 tai2 ban1 zi5"
+    },
+    {
+        "level": 391,
+        "question": "茄子",
+        "answerLength": 4,
+        "answer": "窃窃私语",
+        "answerType": "词语",
+        "tips": "茄子",
+        "pinyin": "qie4 qie4 si1 yu3"
+    },
+    {
+        "level": 393,
+        "question": "油",
+        "answerLength": 3,
+        "answer": "油烟机",
+        "answerType": "词语",
+        "tips": "油",
+        "pinyin": "you2 yan1 ji1"
+    },
+    {
+        "level": 395,
+        "question": "人",
+        "answerLength": 3,
+        "answer": "稻草人",
+        "answerType": "词语",
+        "tips": "人",
+        "pinyin": "dao4 cao3 ren2"
+    },
+    {
+        "level": 396,
+        "question": "布",
+        "answerLength": 4,
+        "answer": "一毛不拔",
+        "answerType": "成语",
+        "tips": "布",
+        "pinyin": "yi4 mao2 bu4 ba2"
+    },
+    {
+        "level": 452,
+        "question": "马",
+        "answerLength": 2,
+        "answer": "马超",
+        "answerType": "历史人物",
+        "tips": "马",
+        "pinyin": "ma3 chao1"
+    },
+    {
+        "level": 560,
+        "question": "公公",
+        "answerLength": 4,
+        "answer": "事半功倍",
+        "answerType": "成语",
+        "tips": "柿半公背",
+        "pinyin": "shi4 ban4 gong1 bei4"
+    },
+    {
+        "level": 583,
+        "question": "马",
+        "answerLength": 4,
+        "answer": "马到成功",
+        "answerType": "成语",
+        "tips": "马",
+        "pinyin": "ma3 dao4 cheng2 gong1"
+    },
+    {
+        "level": 601,
+        "question": "鹿",
+        "answerLength": 5,
+        "answer": "录取通知书",
+        "answerType": "文件",
+        "tips": "鹿娶通知书",
+        "pinyin": "lu4 qu3 tong1 zhi1 shu1"
+    },
+    {
+        "level": 648,
+        "question": "杏子蛋糕",
+        "answerLength": 4,
+        "answer": "兴高采烈",
+        "answerType": "成语",
+        "tips": "杏高踩裂",
+        "pinyin": "xing4 gao1 cai3 lie4"
+    },
+    {
+        "level": 671,
+        "question": "豹",
+        "answerLength": 4,
+        "answer": "暴饮暴食",
+        "answerType": "行为",
+        "tips": "豹饮豹食",
+        "pinyin": "bao4 yin3 bao4 shi2"
+    },
+    {
+        "level": 681,
+        "question": "特务",
+        "answerLength": 3,
+        "answer": "杀马特",
+        "answerType": "流行语",
+        "tips": "特务",
+        "pinyin": "sha1 ma3 te4"
+    },
+    {
+        "level": 703,
+        "question": "马",
+        "answerLength": 3,
+        "answer": "拍马屁",
+        "answerType": "行为",
+        "tips": "马",
+        "pinyin": "pai1 ma3 pi4"
+    },
+    {
+        "level": 734,
+        "question": "八",
+        "answerLength": 2,
+        "answer": "腊八",
+        "answerType": "节日",
+        "tips": "八",
+        "pinyin": "la4 ba1"
+    },
+    {
+        "level": 738,
+        "question": "米",
+        "answerLength": 3,
+        "answer": "米老鼠",
+        "answerType": "词语",
+        "tips": "米",
+        "pinyin": "mi3 lao3 shu3"
+    },
+    {
+        "level": 838,
+        "question": "马",
+        "answerLength": 3,
+        "answer": "千里马",
+        "answerType": "典故",
+        "tips": "马",
+        "pinyin": "qian1 li3 ma3"
+    },
+    {
+        "level": 848,
+        "question": "马",
+        "answerLength": 4,
+        "answer": "悬崖勒马",
+        "answerType": "成语",
+        "tips": "马",
+        "pinyin": "xuan2 ya2 le4 ma3"
+    },
+    {
+        "level": 849,
+        "question": "听题",
+        "answerLength": 4,
+        "answer": "马不停蹄",
+        "answerType": "成语",
+        "tips": "听题",
+        "pinyin": "ma3 bu4 ting2 ti2"
+    },
+    {
+        "level": 851,
+        "question": "许下心愿",
+        "answerLength": 4,
+        "answer": "心猿意马",
+        "answerType": "成语ting",
+        "tips": "许下心愿",
+        "pinyin": "xin1 yuan2 yi4 ma3"
+    },
+    {
+        "level": 852,
+        "question": "纸折",
+        "answerLength": 4,
+        "answer": "指鹿为马",
+        "answerType": "成语",
+        "tips": "的鹿",
+        "pinyin": "zhi3 lu4 wei2 ma3"
+    },
+    {
+        "level": 854,
+        "question": "鞭炮",
+        "answerLength": 4,
+        "answer": "快马加鞭",
+        "answerType": "成语",
+        "tips": "鞭炮",
+        "pinyin": "kuai4 ma3 jia1 bian1"
+    },
+    {
+        "level": 862,
+        "question": "水稻",
+        "answerLength": 4,
+        "answer": "水到渠成",
+        "answerType": "成语",
+        "tips": "水稻",
+        "pinyin": "shui3 dao4 qu2 cheng2"
+    },
+    {
+        "level": 878,
+        "question": "苍蝇",
+        "answerLength": 2,
+        "answer": "躺赢",
+        "answerType": "流行语",
+        "tips": "苍蝇",
+        "pinyin": "tang3 ying2"
+    },
+    {
+        "level": 2044,
+        "question": "柿子",
+        "answerLength": 4,
+        "answer": "万事如意",
+        "answerType": "成语",
+        "tips": "柿子",
+        "pinyin": "wan4 shi4 ru2 yi4"
+    },
+    {
+        "level": 2048,
+        "question": "羊",
+        "answerLength": 4,
+        "answer": "三阳开泰",
+        "answerType": "成语",
+        "tips": "羊",
+        "pinyin": "san1 yang2 kai1 tai4"
+    },
+    {
+        "level": 2053,
+        "question": "柿子",
+        "answerLength": 4,
+        "answer": "好事成双",
+        "answerType": "成语",
+        "tips": "柿子",
+        "pinyin": "hao3 shi4 cheng2 shuang1"
+    },
+    {
+        "level": 2117,
+        "question": "小丸子",
+        "answerLength": 4,
+        "answer": "四喜丸子",
+        "answerType": "食物",
+        "tips": "小丸子",
+        "pinyin": "si4 xi3 wan2 zi5"
+    },
+    {
+        "level": 2123,
+        "question": "想睡觉",
+        "answerLength": 4,
+        "answer": "龙马精神",
+        "answerType": "成语",
+        "tips": "想睡觉",
+        "pinyin": "long2 ma3 jing1 shen2"
+    },
+    {
+        "level": 2278,
+        "question": "马",
+        "answerLength": 3,
+        "answer": "马蜂窝",
+        "answerType": "自然",
+        "tips": "马",
+        "pinyin": "ma3 feng1 wo1"
+    },
+    {
+        "level": 2620,
+        "question": "榕树",
+        "answerLength": 4,
+        "answer": "欣欣向荣",
+        "answerType": "成语",
+        "tips": "榕树",
+        "pinyin": "xin1 xin1 xiang4 rong2"
+    },
+    {
+        "level": 2810,
+        "question": "羊",
+        "answerLength": 2,
+        "answer": "洋葱",
+        "answerType": "词语",
+        "tips": "羊",
+        "pinyin": "yang2 cong1"
+    },
+    {
+        "level": 3001,
+        "question": "风衣",
+        "answerLength": 4,
+        "answer": "丰衣足食",
+        "answerType": "成语",
+        "tips": "风衣",
+        "pinyin": "feng1 yi1 zu2 shi2"
+    },
+    {
+        "level": 3002,
+        "question": "风筝",
+        "answerLength": 4,
+        "answer": "蒸蒸日上",
+        "answerType": "成语",
+        "tips": "风筝",
+        "pinyin": "zheng1 zheng1 ri4 shang4"
+    },
+    {
+        "level": 3003,
+        "question": "蝙蝠",
+        "answerLength": 4,
+        "answer": "五福临门",
+        "answerType": "祝福语",
+        "tips": "蝙蝠",
+        "pinyin": "wu3 fu2 lin2 men2"
+    },
+    {
+        "level": 3005,
+        "question": "海鲜",
+        "answerLength": 4,
+        "answer": "一马当先",
+        "answerType": "成语",
+        "tips": "海鲜",
+        "pinyin": "yi4 ma3 dang1 xian1"
+    },
+    {
+        "level": 3006,
+        "question": "老登",
+        "answerLength": 4,
+        "answer": "五谷丰登",
+        "answerType": "成语",
+        "tips": "老登",
+        "pinyin": "wu3 gu3 feng1 deng1"
+    },
+    {
+        "level": 3007,
+        "question": "栗子",
+        "answerLength": 4,
+        "answer": "大吉大利",
+        "answerType": "祝福语",
+        "tips": "栗子",
+        "pinyin": "da4 ji2 da4 li4"
+    },
+    {
+        "level": 3008,
+        "question": "地图",
+        "answerLength": 4,
+        "answer": "老马识途",
+        "answerType": "成语",
+        "tips": "地图",
+        "pinyin": "lao3 ma3 shi2 tu2"
+    },
+    {
+        "level": 3009,
+        "question": "粘液",
+        "answerLength": 3,
+        "answer": "年夜饭",
+        "answerType": "食物",
+        "tips": "粘液",
+        "pinyin": "nian2 ye4 fan4"
+    },
+    {
+        "level": 3010,
+        "question": "溪",
+        "answerLength": 2,
+        "answer": "除夕",
+        "answerType": "节日",
+        "tips": "溪",
+        "pinyin": "chu2 xi1"
+    },
+    {
+        "level": 3011,
+        "question": "food",
+        "answerLength": 4,
+        "answer": "富得流油",
+        "answerType": "俗语",
+        "tips": "food",
+        "pinyin": "fu4 de5 liu2 you2"
+    },
+    {
+        "level": 3012,
+        "question": "电饭煲",
+        "answerLength": 4,
+        "answer": "酒足饭饱",
+        "answerType": "成语",
+        "tips": "电饭煲",
+        "pinyin": "jiu3 zu2 fan4 bao3"
+    },
+    {
+        "level": 3013,
+        "question": "裁员",
+        "answerLength": 4,
+        "answer": "财源滚滚",
+        "answerType": "祝福语",
+        "tips": "裁员",
+        "pinyin": "cai2 yuan2 gun3 gun3"
+    },
+    {
+        "level": 3014,
+        "question": "柿子",
+        "answerLength": 4,
+        "answer": "心想事成",
+        "answerType": "祝福语",
+        "tips": "柿子",
+        "pinyin": "xin1 xiang3 shi4 cheng2"
+    },
+    {
+        "level": 3015,
+        "question": "新鲜鲶鱼",
+        "answerLength": 4,
+        "answer": "新年快乐",
+        "answerType": "祝福语",
+        "tips": "新鲜鲶鱼",
+        "pinyin": "xin1 nian2 kuai4 le4"
+    },
+    {
+        "level": 3016,
+        "question": "马",
+        "answerLength": 3,
+        "answer": "青梅竹",
+        "answerType": "成语",
+        "tips": "马",
+        "pinyin": "qing1 mei2 zhu2 ma3"
+    },
+    {
+        "level": 3017,
+        "question": "马",
+        "answerLength": 4,
+        "answer": "走马观花",
+        "answerType": "成语",
+        "tips": "马",
+        "pinyin": "zou3 ma3 guan1 hua1"
+    },
+    {
+        "level": 3018,
+        "question": "马",
+        "answerLength": 2,
+        "answer": "斑马",
+        "answerType": "动物",
+        "tips": "马",
+        "pinyin": "ban1 ma3"
+    },
+    {
+        "level": 3019,
+        "question": "马",
+        "answerLength": 4,
+        "answer": "兵强马壮",
+        "answerType": "成语",
+        "tips": "马",
+        "pinyin": "bing1 qiang2 ma3 zhuang4"
+    },
+    {
+        "level": 3020,
+        "question": "扬帆",
+        "answerLength": 4,
+        "answer": "人仰马翻",
+        "answerType": "成语",
+        "tips": "扬帆",
+        "pinyin": "ren2 yang3 ma3 fan1"
+    },
+    {
+        "level": 3021,
+        "question": "泡澡",
+        "answerLength": 3,
+        "answer": "马后炮",
+        "answerType": "俗语",
+        "tips": "泡澡",
+        "pinyin": "ma3 hou4 pao4"
+    },
+    {
+        "level": 3022,
+        "question": "马",
+        "answerLength": 4,
+        "answer": "害群之马",
+        "answerType": "成语",
+        "tips": "马",
+        "pinyin": "hai4 qun2 zhi1 ma3"
+    },
+    {
+        "level": 3023,
+        "question": "皇帝",
+        "answerLength": 3,
+        "answer": "皇阿玛",
+        "answerType": "ma称谓",
+        "tips": "皇帝",
+        "pinyin": "huang2 a4"
+    },
+    {
+        "level": 3024,
+        "question": "雪夜",
+        "answerLength": 4,
+        "answer": "学业有成",
+        "answerType": "祝福语",
+        "tips": "雪夜",
+        "pinyin": "xue2 ye4 you3 cheng2"
+    },
+    {
+        "level": 3025,
+        "question": "拍照",
+        "answerLength": 4,
+        "answer": "福星高照",
+        "answerType": "祝福语",
+        "tips": "拍照",
+        "pinyin": "fu2 xing1 gao1 zhao4"
+    },
+    {
+        "level": 3026,
+        "question": "竹子",
+        "answerLength": 2,
+        "answer": "爆竹",
+        "answerType": "节日用品",
+        "tips": "竹子",
+        "pinyin": "bao4 zhu2"
+    },
+    {
+        "level": 3027,
+        "question": "马",
+        "answerLength": 3,
+        "answer": "马克杯",
+        "answerType": "生活用品",
+        "tips": "马",
+        "pinyin": "ma3 ke4 bei1"
+    },
+    {
+        "level": 3028,
+        "question": "吕布",
+        "answerLength": 4,
+        "answer": "步步高升",
+        "answerType": "祝福语",
+        "tips": "吕布",
+        "pinyin": "bu4 bu4 gao1 sheng1"
     }
 ]

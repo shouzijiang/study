@@ -1,0 +1,78 @@
+(async () => {
+  const UID = "67ac70ce000000000d009fb3";
+  const seen = new Map(); // noteId => 完整URL，优先带token的
+
+  const toAbs = (u) => {
+    if (!u) return "";
+    if (u.startsWith("//")) return "https:" + u;
+    if (u.startsWith("/")) return "https://www.xiaohongshu.com" + u;
+    return u;
+  };
+
+  const addUrl = (raw) => {
+    let u = toAbs(raw);
+    if (!u) return;
+
+    // /user/profile/{uid}/{noteId}?...
+    let m = u.match(new RegExp(`/user/profile/${UID}/([0-9a-f]{24})\\?([^#]+)`, "i"));
+    if (m) {
+      const noteId = m[1].toLowerCase();
+      const q = new URLSearchParams(m[2].replace(/&amp;/g, "&"));
+      const token = q.get("xsec_token") || "";
+      const source = q.get("xsec_source") || "pc_user";
+      u = `https://www.xiaohongshu.com/explore/${noteId}` +
+          (token ? `?xsec_token=${encodeURIComponent(token)}&xsec_source=${encodeURIComponent(source)}` : "");
+    }
+
+    // /explore/{noteId}?...
+    m = u.match(/\/explore\/([0-9a-f]{24})(\?[^#]+)?/i);
+    if (!m) return;
+    const noteId = m[1].toLowerCase();
+    const q = new URLSearchParams((m[2] || "").replace(/^\?/, "").replace(/&amp;/g, "&"));
+    const token = q.get("xsec_token") || "";
+    const source = q.get("xsec_source") || "pc_user";
+    const norm = `https://www.xiaohongshu.com/explore/${noteId}` +
+      (token ? `?xsec_token=${encodeURIComponent(token)}&xsec_source=${encodeURIComponent(source)}` : "");
+    // 只保留带 token 的；如果已有带 token 的则不覆盖
+    const prev = seen.get(noteId);
+    if (!prev || (!prev.includes("xsec_token=") && token)) {
+      seen.set(noteId, norm);
+    }
+  };
+
+  const collectOnce = () => {
+    document.querySelectorAll('a[href*="/explore/"],a[href*="/user/profile/"]').forEach(a => addUrl(a.getAttribute("href") || ""));
+    const html = document.documentElement.innerHTML;
+
+    // 兜底：从整页HTML抓
+    let mm;
+    const re1 = /\/explore\/([0-9a-f]{24})(\?[^"'\\s<>]*)?/ig;
+    while ((mm = re1.exec(html)) !== null) addUrl(`/explore/${mm[1]}${mm[2] || ""}`);
+
+    const re2 = new RegExp(`/user/profile/${UID}/([0-9a-f]{24})\\?([^"'\\s<>]+)`, "ig");
+    while ((mm = re2.exec(html)) !== null) addUrl(`/user/profile/${UID}/${mm[1]}?${mm[2]}`);
+  };
+
+  let stable = 0;
+  let lastCount = 0;
+
+  for (let i = 0; i < 60; i++) {
+    collectOnce();
+    window.scrollTo(0, document.body.scrollHeight);
+    await new Promise(r => setTimeout(r, 1200));
+    collectOnce();
+
+    if (seen.size === lastCount) stable++;
+    else stable = 0;
+
+    lastCount = seen.size;
+    if (stable >= 5) break; // 连续无新增就停
+  }
+
+  const arr = Array.from(seen.values());
+  console.log("共抓到:", arr.length);
+
+  // 输出 PHP array
+  const php = "array(\n" + arr.map(u => `    '${u.replace(/'/g, "\\'")}',`).join("\n") + "\n);";
+  console.log(php);
+})();
